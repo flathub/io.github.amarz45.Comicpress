@@ -148,4 +148,4 @@ modules:
       - type: git
         url: https://github.com/amarz45/comicpress.git
         tag: v1.2.0
-        commit: db3ce6d8b0cfd5a15b1c3b2fc986267f101a68d4
+        commit: ed7834e7a0b97bccb04fccb7b63c33b08485e395
